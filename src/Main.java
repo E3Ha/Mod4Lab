@@ -59,13 +59,13 @@ public class Main {
         int birthMonth = 4;
         string fullName = "E" + "" + "H";
 
-        System.out.println("The number of kids in your family:" + );
-        System.out.println("Is it raining? :" + );
-        System.out.println("The price of a gallon of gas :" + );
-        System.out.println("Your favorite number :" + );
-        System.out.println("Your shoe size:" + );
-        System.out.println("Your birth month:" + );
-        System.out.println("Your full name:" + );
+        System.out.println("The number of kids in your family:" + numOfKids);
+        System.out.println("Is it raining? :" + raining);
+        System.out.println("The price of a gallon of gas :" + gasPrice);
+        System.out.println("Your favorite number :" + favNum);
+        System.out.println("Your shoe size:" + shoeSize);
+        System.out.println("Your birth month:" + birthMonth);
+        System.out.println("Your full name:" + fullName);
 
 
 
