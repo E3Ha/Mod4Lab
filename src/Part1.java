@@ -58,7 +58,7 @@ public class Part1 {
         int favNum = 8;
         double shoeSize = 10.5;
         int birthMonth = 4;
-        String fullName = "E" + "" + "H";
+        String fullName = "E" + "." + "H";
 
         System.out.println("The number of kids in your family:" + numOfKids);
         System.out.println("Is it raining?:" + raining);
