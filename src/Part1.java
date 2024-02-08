@@ -1,4 +1,4 @@
-public class Main {
+public class Part1 {
 
     public static void main(String[] args) {
 
@@ -50,19 +50,20 @@ public class Main {
         doubleModulo = doubleOperandA % doubleOperandB;
         System.out.println("The modulo using doubles of " + doubleOperandA + " " + doubleOperandB + " is " + doubleModulo);
 
+        System.out.println("");
 
         int numOfKids = 2;
-        string raining = "true";
+        String raining = "true";
         double gasPrice = 2.55;
         int favNum = 8;
         double shoeSize = 10.5;
         int birthMonth = 4;
-        string fullName = "E" + "" + "H";
+        String fullName = "E" + "" + "H";
 
         System.out.println("The number of kids in your family:" + numOfKids);
-        System.out.println("Is it raining? :" + raining);
-        System.out.println("The price of a gallon of gas :" + gasPrice);
-        System.out.println("Your favorite number :" + favNum);
+        System.out.println("Is it raining?:" + raining);
+        System.out.println("The price of a gallon of gas:" + gasPrice);
+        System.out.println("Your favorite number:" + favNum);
         System.out.println("Your shoe size:" + shoeSize);
         System.out.println("Your birth month:" + birthMonth);
         System.out.println("Your full name:" + fullName);
